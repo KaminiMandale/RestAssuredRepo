@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-09T06:05:21Z" name="Default suite" finished-at="2023-07-09T06:05:24Z" duration-ms="3186">
+    <groups>
+    </groups>
+    <test started-at="2023-07-09T06:05:21Z" name="Default test" finished-at="2023-07-09T06:05:24Z" duration-ms="3186">
+      <class name="RestAPIUsingXML.XMLTest">
+        <test-method signature="test2()[pri:0, instance:RestAPIUsingXML.XMLTest@4e423aa2]" started-at="2023-07-09T06:05:21Z" name="test2" finished-at="2023-07-09T06:05:24Z" duration-ms="3173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- RestAPIUsingXML.XMLTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
